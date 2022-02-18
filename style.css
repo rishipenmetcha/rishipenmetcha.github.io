@@ -58,6 +58,12 @@ img {
   display: block;
 }
 
+.sidenav a:focus span {
+  color: white;
+  background-color: black;
+  box-decoration-break: clone;
+}
+
 .sidenav a:hover span {
   color: white;
   background-color: black;
