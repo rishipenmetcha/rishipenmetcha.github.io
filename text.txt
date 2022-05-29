@@ -1,0 +1,47 @@
+---About Me---
+Hi, my name is Rishi. I am a Software Engineer at Palantir. I graduated from 
+Cornell University in 2021 with an MEng in Computer Science and a BS in Applied 
+Economics and Management. I like building software products and investing. In 
+my free time I like to kick it with friends and spend time with family, either 
+playing sports, eating good food, or exploring the outdoors.
+
+---Experience---
+
+Palantir
+Software Engineer
+March 2022 - Present
+Backend dev working on Gotham.
+
+Amazon Web Services (AWS)
+Software Development Engineer Intern
+June 2021 - August 2021
+EC2 Fleet Insights
+
+State Farm
+Software Development Intern
+May 2020 - July 2020
+
+Foothill Ventures
+Intern Analyst
+June 2018 - August 2018
+Foothill Ventures (formerly Tsingyuan Ventures) is a technology-focused venture 
+fund investing in seed to A-round startups.
+
+---Education---
+
+Cornell University
+MEng in Computer Science
+December 2021
+
+Cornell University
+BS in Applied Economics and Management
+December 2020
+
+Homestead High School
+June 2017
+
+---Projects---
+
+In progress...
+
+
