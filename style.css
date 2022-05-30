@@ -31,10 +31,11 @@ img {
   max-height:30%;
 }
 
-#centerText {
+pre {
   margin-top: 40px;
-  padding-left: 30%;
-  padding-right: 30%;
+  margin-left: 30%;
+  margin-right: 30%;
+  white-space: pre-line;
 }
 
 .sidenav {
