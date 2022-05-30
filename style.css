@@ -70,3 +70,13 @@ pre {
   background-color: black;
   box-decoration-break: clone;
 }
+
+p#updated {
+  color: gray;
+  font-size: 12px;
+  font-family: 'Courier New';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
