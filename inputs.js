@@ -9,7 +9,7 @@ const experience1 = {
   company: "Palantir",
   role: "Software Engineer",
   time: "March 2022 - Present",
-  description: "Backend dev working on Gotham."
+  description: "Gotham Backend"
 }
 const experience2 = {
   company: "Amazon Web Services (AWS)",
