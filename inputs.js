@@ -1,4 +1,4 @@
-const aboutMe = "Hi, my name is Rishi. I am currently a Software Engineer at Traba. "
+const aboutMe = "Hi, my name is Rishi. "
 
 const palantirExperience = {
   company: "Palantir",
@@ -15,7 +15,7 @@ const awsExperience = {
 const stateFarmExperience = {
   company: "State Farm",
   role: "Software Development Intern",
-  time: "May 2020 - July 2020",
+  time: "May 2020 - July 2020"
 }
 const foothillVenturesExperience = {
   company: "Foothill Ventures",
@@ -33,7 +33,7 @@ const ironcladExperience = {
 const trabaExperience = {
   company: "Traba",
   role: "Software Engineer",
-  time: "July 2024 - Present",
+  time: "July 2024 - Present"
 }
 
 const experience = [trabaExperience, ironcladExperience, palantirExperience, awsExperience, stateFarmExperience, foothillVenturesExperience];
