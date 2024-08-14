@@ -35,9 +35,9 @@ document.getElementById('education').addEventListener("click",
   function () {
     document.getElementById('education').focus();
   });
-document.getElementById('projects').addEventListener("click",
+document.getElementById('writing').addEventListener("click",
   function () {
-    document.getElementById('projects').focus();
+    document.getElementById('writing').focus();
   });
 
 function display(tab, text) {
